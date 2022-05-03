@@ -30,8 +30,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Created By'
-global.author = 'by Hikari Bot'
+global.packname = 'M.ALWI'
+global.author = 'HIKARIBOTZ-MD'
 
 global.multiplier = 69 // The higher, The harder levelup
 
