@@ -1,6 +1,6 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi 」
-│ • https://saweria.co/itsmedell
+│ • https://ibb.co/Tkv5cn9
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
